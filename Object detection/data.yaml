@@ -1,0 +1,12 @@
+names:
+- not-rick
+- rick
+roboflow:
+  license: CC BY 4.0
+  project: never-gonna
+  url: https://universe.roboflow.com/april-public-yibrz/never-gonna/dataset/8
+  version: 8
+  workspace: april-public-yibrz
+test: ./Never-Gonna-8/test/images
+train: ./Never-Gonna-8/train/images
+val: ./Never-Gonna-8/valid/images
